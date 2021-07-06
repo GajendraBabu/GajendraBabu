@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GajendraBabu
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning SQL, Python
+- 🌱 I’m currently learning C#.Net, ASP.Net, SQL, Django Python
 - 💞️ I’m looking to collaborate on SQL Server, C#.Net, ASP.Net and Django Python,
 - 📫 How to reach me pgk.gajendrababu@gmail.com
 
