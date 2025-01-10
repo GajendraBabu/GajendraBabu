@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dr.GajendraBabu
+- 👋 Hi, I’m @Dr.GajendraBabuPGK
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning R, Python, Power Bi, C#,.Net, ASP.Net, SQL, Django Python, Solidity
 - 💞️ I’m looking to collaborate on R, Python, PowerBi, SQL Server, C#.Net, ASP.Net and Django Python,
